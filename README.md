@@ -1,8 +1,8 @@
 # Sat-hackathon
 ![Novel Frame](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/4c26e8ac-2dd1-4d75-8e1a-9f7585e3b381)
-console.log("Welcome to Unniyappam.ai !!");
 #Essay Generator
 It is an  algorithm that draws knowledge from available data to understand what the message is and  wraps sentences and words around it, i.e. creates the summary or essay, would tremendously help the writer in expressing his message as concise as possible. In this context, we designed a text generation tool using Google Assistant to easily generate essays based on message-relevant input variables such as key words and intention indicators.
+console.log("Welcome to Unniyappam.ai !!");
 class MarkovChain {
   constructor() {
     this.chain = {};
