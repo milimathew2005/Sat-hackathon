@@ -6,6 +6,8 @@ It is an  algorithm that draws knowledge from available data to understand what 
 1. [Aaron Thomas Philip] (https://github.com/aarontphil)
 2. [Binaya Ginesh] (https://github.com/binayaginesh)
 3. [Mili Mathew] (https://github.com/milimathew2005)
+## Link to product walkthrough
+https://youtu.be/gr7FiRqswF0?si=yucud_n7ibyTkMej
 
 console.log("Welcome to Unniyappam.ai !!");
 class MarkovChain {
